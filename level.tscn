@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [gd_scene load_steps=13 format=3 uid="uid://b3m6xkrm18rpv"]
 
 [ext_resource type="Script" uid="uid://5qmjw0wrextr" path="res://level_test.gd" id="1_u52ul"]
@@ -7,15 +6,6 @@
 [ext_resource type="Script" path="res://p_1_wall.gd" id="3_0b4ue"]
 [ext_resource type="Script" uid="uid://bbduc43ljf86y" path="res://p_2_wall.gd" id="4_f2txt"]
 [ext_resource type="Script" uid="uid://cv2anvuqggdhc" path="res://camera_2d.gd" id="6_1ainy"]
-=======
-[gd_scene load_steps=12 format=3 uid="uid://b3m6xkrm18rpv"]
-
-[ext_resource type="Script" path="res://level_test.gd" id="1_u52ul"]
-[ext_resource type="Texture2D" uid="uid://cntljjvkv1ig7" path="res://Imported piskel (7).png" id="2_f2txt"]
-[ext_resource type="PackedScene" uid="uid://c1gl0hvam08pm" path="res://ball.tscn" id="2_vonw3"]
-[ext_resource type="Script" path="res://p_1_wall.gd" id="3_0b4ue"]
-[ext_resource type="Script" path="res://p_2_wall.gd" id="4_f2txt"]
->>>>>>> a0757d424bc30e816597600c7fdf47b9fc222df3
 
 [sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_oi3di"]
 normal = Vector2(0, 1)
